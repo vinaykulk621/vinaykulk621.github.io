@@ -1,0 +1,26 @@
+baseURL = 'https://vinaykulk621.github.io/'
+languageCode = 'en-us'
+title = 'Vinay Kulkarni'
+theme = "hugo-trainsh"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params]
+  mainSections = ["blog"]
+
+  nav = """
+  [Home](/)
+  [Projects](/projects/)
+  [Blog](/blog/)
+  """
+
+[params.social]
+  github = "https://github.com/vinaykulk621"
+  linkedin = "https://www.linkedin.com/in/vinay-kulkarni-725184245/"
+  email = "kulkarnivinay621@gmail.com"
+
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
