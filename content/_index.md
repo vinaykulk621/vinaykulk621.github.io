@@ -4,7 +4,7 @@ title = 'Home || Vinay Kulkarni'
 
 Hi, I am Vinay Kulkarni, working at [Qualcomm](https://qualcomm.com) as `Associate, Engineer`.
 
-I mainly have experience with working with cloud VM deployement | orchastration | management | planning.
+I mainly have experience with working with cloud VM deployment | orchestration | management | planning.
 
 ---
 
