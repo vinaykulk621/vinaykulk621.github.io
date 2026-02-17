@@ -1,0 +1,11 @@
+{{ define "main" }}
+
+<article class="timeline-single">
+  <div class="timeline-single-date">{{ .Date.Format "02 Jan 2006" }}</div>
+
+  <h1>{{ .Title }}</h1>
+
+  <div class="timeline-single-content">{{ .Content }}</div>
+</article>
+
+{{ end }}

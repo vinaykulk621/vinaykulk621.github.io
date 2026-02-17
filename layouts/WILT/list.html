@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<h4>What I Learnt Today (WILT)</h4>
+<section class="timeline-container">
+  <div class="timeline">
+    {{ range .Pages.ByDate }}
+
+    <div class="timeline-item">
+      <div class="timeline-date">{{ .Date.Format "02 Jan 2006" }}</div>
+
+      <div class="timeline-card">
+        <p class="timeline-title">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </p>
+
+        <div class="timeline-summary">{{ .Summary | truncate 250 }}</div>
+      </div>
+    </div>
+
+    {{ end }}
+  </div>
+</section>
+
+{{ end }}
