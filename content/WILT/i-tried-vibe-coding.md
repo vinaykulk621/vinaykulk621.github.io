@@ -23,7 +23,7 @@ prompt
 
 > A native go application which shows you your cpu and memory usage in realtime.
 
-I like how it asked me questions to calrify.
+I like how it asked me questions to clarify.
 ![Question](/images/ask-question.png "opencode clarifying questions before actually starting building")
 
 Final result: Basically one proompt
