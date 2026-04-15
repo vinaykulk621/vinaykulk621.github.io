@@ -12,4 +12,3 @@ I have previously workd with the following techonologies:
 
 - [Python](https://www.python.org/)
 - [Go](https://go.dev)
-- [Next.js](https://nextjs.org/)
