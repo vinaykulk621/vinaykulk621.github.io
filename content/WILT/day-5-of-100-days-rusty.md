@@ -12,12 +12,15 @@ what i learnt in Rust today
 
 ### slices
 
+draft = true
+
 - it is basically list indexing in python
 
-  ```rust
-      let a = [1, 2, 3, 4, 5]
+```rust
 
-      let all = &a[..] // copy everything
-      let first = &a[..3] // first 3 elements
-      let last = &a[3..] // last elements
-  ```
+let a = [1, 2, 3, 4, 5]
+let all = &a[..] // copy everything
+let first = &a[..3] // first 3 elements
+let last = &a[3..] // last elements
+
+```
