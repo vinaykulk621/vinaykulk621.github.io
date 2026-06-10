@@ -541,13 +541,12 @@ ul.blog-posts {
   padding: 0;
   margin: 0;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 2em 3em;
+  grid-template-columns: 1fr;
+  gap: 1.5em;
 }
 
 @media (max-width: 560px) {
   ul.blog-posts {
-    grid-template-columns: 1fr;
     gap: 1.5em;
   }
 }
@@ -594,6 +593,15 @@ ul.blog-posts li time {
   color: var(--muted-color);
   font-size: 0.8rem;
   margin-top: 0.3em;
+}
+
+ul.blog-posts li .blog-post-description {
+  padding-left: 1em;
+  color: var(--text-color);
+  font-size: 0.9rem;
+  margin-top: 0.2em;
+  margin-bottom: 0;
+  opacity: 0.85;
 }
 
 /* Upvote widget */

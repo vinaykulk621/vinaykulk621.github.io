@@ -1,6 +1,7 @@
 +++
 date = '2026-06-01T19:10:15+05:30'
 title = 'BitTorrent Handshake Protocol'
+description = 'BitTorrent Handshake Protocol introduction and implementation'
 +++
 
 once you parse `.torrent` file you get the following components:

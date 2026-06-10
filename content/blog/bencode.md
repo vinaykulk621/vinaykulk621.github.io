@@ -1,6 +1,7 @@
 +++
 date = '2026-05-19T22:41:13+05:30'
 title = 'Bencode'
+description = 'Bencode is a form of encoding technique used by BitTorrent algorith to store data in .torrent file'
 +++
 
 This is a way of serializing the data or representing data in torrent, ex; we use JSON while dealing with APIs, and BSON while dealing with mongodb.
