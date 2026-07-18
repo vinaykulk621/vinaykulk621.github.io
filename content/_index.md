@@ -8,6 +8,8 @@ Hi, I'm Vinay Kulkarni,
 
 Currently, I'm interested in [Go](https://go.dev) and AI tools. One of the AI tools I've built is [Shelly](https://github.com/vinaykulk621/shelly), a terminal-based LLM client that helps with Linux commands and terminal-related questions you always seem to forget. I'm also working on [implementing](https://github.com/vinaykulk621/torrent) a [BitTorrent](https://www.bittorrent.com) client in Go.
 
+You can contact me at: **kulkarnivinay621@gmail(.)com** or any of the social links below
+
 My resolutions for this year:
 
 1. Learn to swim (I was much safer in the water when I didn't know how to swim)
