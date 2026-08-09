@@ -10,12 +10,6 @@ Currently, I'm interested in [Go](https://go.dev) and AI tools. One of the AI to
 
 You can contact me at: **kulkarnivinay621@gmail(.)com** or any of the social links below
 
-My resolutions for this year:
-
-1. Learn to swim (I was much safer in the water when I didn't know how to swim)
-2. Contribute to open source.
-3. Learn to play at least one tune on the [ukulele](https://en.wikipedia.org/wiki/Ukulele).
-
 ---
 
 I work with the following technologies:
